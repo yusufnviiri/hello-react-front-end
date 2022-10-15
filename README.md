@@ -18,21 +18,27 @@
 
 
 ## Getting Started
-
-
-
-
-
 To get a local copy of the app, run the following commands in your terminal:
 - `git clone https://github.com/yusufnviiri/hello-react-front-end`
 - `link to Backend https://github.com/yusufnviiri/hello-rails-backend/pull/1`
 
-
 - `cd /hello-rails-front-end`
 - `npm install`
 - [link to changes]('https://github.com/yusufnviiri/hello-rails-backend/pull/1')
-Run the following commands to run the app
+
+## Back-end setup
 - `npm run start`
+- `git clone https://github.com/yusufnviiri/hello-rails-backend`
+- `cd /hello-rails-backend`
+- `bundle install`
+
+
+Run the following commands to run the app
+
+- `rails db:create`
+- `rails db:migrate`
+- `rails db:seed`
+- `rails s -p 3001`
 ## Author
 
 
