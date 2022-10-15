@@ -24,9 +24,9 @@ To get a local copy of the app, run the following commands in your terminal:
 
 - `cd /hello-rails-front-end`
 - `npm install`
-##[link to changes](https://github.com/yusufnviiri/hello-rails-backend/pull/1)
+[link to changes](https://github.com/yusufnviiri/hello-rails-backend/pull/1)
 
-##[LINK TO BACKEND](https://github.com/yusufnviiri/hello-rails-backend)
+[LINK TO BACKEND](https://github.com/yusufnviiri/hello-rails-backend)
 ## Back-end setup
 - `npm run start`
 - `git clone https://github.com/yusufnviiri/hello-rails-backend`
